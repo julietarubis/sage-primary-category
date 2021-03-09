@@ -8,6 +8,6 @@
 #Time Tracking
 WordPress configuration (5min)
 Research (2hours)
-Coding and Testing (3hour)
+Coding and Testing (3hours)
 
 
